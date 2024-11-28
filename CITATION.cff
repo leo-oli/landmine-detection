@@ -1,0 +1,18 @@
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Landmine Detection Using AI Algorithms"
+authors:
+  - family-names: "Oliinyk"
+    given-names: "Leonid"
+    orcid: "https://orcid.org/0009-0000-9392-2271"
+    affiliation: "Your Affiliation"
+version: "1.0.0"
+date-released: "2024-11-28"
+url: "https://github.com/leo-oli/landmine-detection-mlp"
+keywords:
+  - "landmine detection"
+  - "multilayer perceptron"
+  - "logistic regression"
+  - "passive detection systems"
+
